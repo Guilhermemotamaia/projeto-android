@@ -1,0 +1,62 @@
+header {
+    background-image: linear-gradient(to bottom, rgba(0, 128, 0, 0.61), #023e02);
+    text-align: center;
+    color: white;   
+    margin: -8px;
+    padding: 4px;
+}
+#h1body {
+    font-family: 'Dancing Script', cursive; 
+    font-size: 40px;  
+}
+h2 {
+    background-image:linear-gradient(to right,  rgb(0 128 0 / 32%), rgb(0 128 0 / 12%));
+    color: gray;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 40px; 
+}
+a {
+    color: gray;
+    text-decoration: none;
+    padding-right: 5px;
+}
+a:hover {
+    background-color: rgba(4, 97, 12, 0.63);
+    text-decoration: underline;
+}
+.left {
+    text-align: left;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-indent: 30px;
+    color: gray;
+}
+article {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:gray;
+    text-indent: 30px;
+    margin-top: -36px;
+    padding-top: 20px;
+}
+.imgcenter {
+    display: flex;
+   justify-content: center;
+}
+.video{
+    display: flex;
+    justify-content:center ;
+    background-color: #016001;
+}
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1px;
+    margin-bottom: -27px;
+    background-color: #023e02;
+    color: gray
+    
+    
+}
